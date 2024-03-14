@@ -1,0 +1,5 @@
+# ignore Directory
+fashion-mnist/data/*
+!fashion-mnist/data/.gitkeep
+mnist/data/*
+!mnist/data/.gitkeep
